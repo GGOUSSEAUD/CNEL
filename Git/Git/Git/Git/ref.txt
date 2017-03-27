@@ -1,0 +1,40 @@
+Fonction main(W,H) Debut 
+
+	tab2[2+3+4][87][54]
+	tab3[-e+g+h]
+	tab[]=1,2,3,4
+	
+	Si : g différent de 0 faire:
+		g=g+(1)
+		
+	FinSi
+	g=-3
+	e=-g-4-g-4
+	g=tab[3]-(tab[g+h]+tab[1])
+	tab[3]=3+5+4
+	Appel fonctioncall(g+5,tab2[2])
+	
+	TantQue : e+10+g<h+20 faire :
+		e=e-(g+2+h)
+		
+		Pour: e=0 TantQue e<10 Apres chaque iteration faire: e=e+1
+			Iteration:
+			e=e+(2)
+			e=e+(2)
+			e=e-1
+			FinIteration
+		FinPour
+
+	e=b
+	FinTantQue
+	
+	Si : e>99 ou e<999 faire:
+		Renvoi h+e
+		
+	FinSi
+	else faire:
+		Renvoi truc
+		
+	FinElse
+	
+Fin
